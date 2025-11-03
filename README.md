@@ -1,21 +1,33 @@
-### 👋 Merhaba, ben Kaan Buğra!
+# 🎮 Kaan Buğra Kızılırmak
 
-Ben Kaan Buğra Kızılırmak. Bir yandan **Bilişim Güvenliği Teknolojisi** alanında eğitim alırken, bir yandan da tutkulu bir **Yazılımcı** ve **Oyun Geliştirici (Game Developer)** olarak çalışıyorum.
+**`Game Developer & Information Security Student`**
+
+Hello! I'm Kaan Buğra, a passionate software developer and game creator currently studying Information Security Technology. My focus is on building immersive worlds and solving complex problems with code.
+
+I'm currently working with a talented team of four to develop our own independent game from the ground up, bringing our creative vision to life using **Unreal Engine**. I thrive on both the technical challenges of development and the collaborative spirit of building something new.
+
+<p align="left">
+   <a href="https://github.com/[kaanbugrakizilirmak]?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/[kaanbugrakizilirmak]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/[kaanbugrakizilirmak]?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/[kaanbugrakizilirmak]?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 ---
 
-🔭 **Şu An Ne Yapıyorum?**
-* Şu anda 4 kişilik harika bir ekiple birlikte kendi oyun projemiz üzerinde yoğun bir şekilde çalışıyoruz. 🎮
+### 🧰 Languages and Tools
 
-🌱 **Nelerle İlgileniyorum?**
-* Oyun geliştirme süreçlerini ve **Unreal Engine**'in inceliklerini derinlemesine öğreniyorum.
-* Eğitimimim bir parçası olarak yazılım güvenliği ve siber güvenlik konularına odaklanıyorum. (İki alanı birleştirmek harika bir avantaj!)
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-🛠️ **Kullandığım Teknolojiler**
-* **Ana Motor:** Unreal Engine
-* **Programlama Dilleri:** C++ (Unreal için)
-* *(Buraya okulda öğrendiğiniz veya kullandığınız diğer güvenlik araçlarını/dillerini ekleyebilirsiniz, örn: Python, Linux, Wireshark vb.)*
+#
 
-📬 **Bana Ulaşın**
-* **LinkedIn:** (LinkedIn profil linkinizi buraya ekleyin)
-* **E-posta:** (E-posta adresinizi buraya ekleyin)
+### 📊 Stats
+
+![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=[kaanbugrakizilirmak]&show_icons=true&theme=gruvbox)
