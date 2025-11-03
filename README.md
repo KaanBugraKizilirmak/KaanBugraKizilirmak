@@ -7,10 +7,8 @@ Hello! I'm Kaan Buğra, a passionate software developer and game creator current
 I'm currently working with a talented team of four to develop our own independent game from the ground up, bringing our creative vision to life using **Unreal Engine**. I thrive on both the technical challenges of development and the collaborative spirit of building something new.
 
 <p align="left">
-   <a href="https://github.com/KaanBugraKizilirmak?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KaanBugraKizilirmak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/KaanBugraKizilirmak?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KaanBugraKizilirmak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/KaanBugraKizilirmak?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KaanBugraKizilirmak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/KaanBugraKizilirmak?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KaanBugraKizilirmak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
